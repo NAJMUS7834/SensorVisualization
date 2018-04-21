@@ -1,4 +1,7 @@
 package com.example.najmus.sensorvisulization;
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 
 import android.os.Bundle;
 import android.app.Activity;
